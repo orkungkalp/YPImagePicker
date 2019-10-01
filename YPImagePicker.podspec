@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
-  s.name             = 'YPImagePicker'
-  s.version          = "4.0.1"
+  s.name             = 'YPImagePickerNew'
+  s.version          = "1.0.1"
   s.summary          = "Instagram-like image picker & filters for iOS"
   s.homepage         = "https://github.com/Yummypets/YPImagePicker"
   s.license          = { :type => "MIT", :file => "LICENSE" }
-  s.author           = 'S4cha'
+  s.author           = 'asdf'
   s.platform         = :ios
   s.source           = { :git => "https://github.com/orkungkalp/YPImagePicker.git",
                          :tag => s.version.to_s }
